@@ -15,6 +15,7 @@
 - [./submission/K12-AI-1st-Assignment-FirstOrderLogic.md](./submission/K12-AI-1st-Assignment-FirstOrderLogic.md)
 - [./submission/K12-AI-Symbolic-Knowledge.md](./submission/K12-AI-Symbolic-Knowledge.md)
 - [./submission/K17-SystemsApproach-Assignment.md](./submission/K17-SystemsApproach-Assignment.md)
+- [./submission/K17-SystemsApproach-Practices.md](./submission/K17-SystemsApproach-Practices.md)
 - [./submission/K19-Quality-Engineering-4th-NuSVM-Practice.md](./submission/K19-Quality-Engineering-4th-NuSVM-Practice.md)
 - [./submission/K19-Quality-Engineering-5th.md](./submission/K19-Quality-Engineering-5th.md)
 - [./submission/K19-Quality-Engineering-6th.md](./submission/K19-Quality-Engineering-6th.md)
