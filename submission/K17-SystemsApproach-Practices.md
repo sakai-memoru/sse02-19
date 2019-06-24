@@ -22,7 +22,7 @@
 #### 1-2. なぜなぜ分析による真因分析
 
 ![img](https://gyazo.com/3197472d047c8cc451fb25a622de894d.png)
-https://gyazo.com/3197472d047c8cc451fb25a622de894d
+
 
 #### 1-3. BSCによるKPI分析＋DFD
 
