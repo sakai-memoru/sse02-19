@@ -1,7 +1,7 @@
 ﻿[gimmick:theme](flatly)
 # Memoru
 
-[TOP](README.md)
+[TOP](index.md)
 
 
 [gimmick:themechooser](Choose theme)
