@@ -5,6 +5,8 @@
 
 ## Submissions
 
+- [./submission/K6-InnovationDesign-Design-Thinking.md](./submission/K6-InnovationDesign-Design-Thinking.md)
+- [./submission/K6-InnovationDesign-Service-Proposition.md](./submission/K6-InnovationDesign-Service-Proposition.md)
 - [./submission/K7-Architecture_4th_Assignment.md](./submission/K7-Architecture_4th_Assignment.md)
 - [./submission/K11-BigData-1st-Apriori.md](./submission/K11-BigData-1st-Apriori.md)
 - [./submission/K11-BigData-6th-Assignment.md](./submission/K11-BigData-6th-Assignment.md)
