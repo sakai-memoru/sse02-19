@@ -1,6 +1,6 @@
 # Index
 
-## overvies
+## overviews
 - Pages for lectures on smart SE.
 
 ## Submissions
@@ -21,4 +21,8 @@
 - [./submission/K19-Quality-Engineering-6th.md](./submission/K19-Quality-Engineering-6th.md)
 - [./submission/K19-Quality-Engineering-7th.md](./submission/K19-Quality-Engineering-7th.md)
 - [./submission/K19-Quality-Engineering-8th.md](./submission/K19-Quality-Engineering-8th.md)
+
+### Templates
+
+- [./templates/template.asta](./templates/template.asta)
 
