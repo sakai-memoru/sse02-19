@@ -3,6 +3,9 @@
 ## overviews
 - Pages for lectures on smart SE.
 
+## 修了制作
+- [./submission/SSE19_CD_PROP.pdf](./submission/SSE19_CD_PROP.pdf)
+
 ## Submissions
 - [./submission/K5-CustomerDevelopment-Service-Proposition.md](./submission/K5-CustomerDevelopment-Service-Proposition.md)
 - [./submission/K6-InnovationDesign-Design-Thinking.md](./submission/K6-InnovationDesign-Design-Thinking.md)
